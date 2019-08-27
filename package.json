@@ -1,0 +1,12 @@
+{
+  "name": "devconnector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "run": "npm server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Dennis Zelada",
+  "license": "MIT"
+}
